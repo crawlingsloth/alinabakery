@@ -129,3 +129,4 @@ For questions or customization help, refer to the code comments in each file.
 ---
 
 **Alina Bakery** - Freshly baked with love since 2025 ❤️
+
